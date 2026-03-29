@@ -7,8 +7,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | Mohit Pal |
-| **Registration Number** | 24BEY10122 |
+| **Student Name** | Nikhil dangi |
+| **Registration Number** | 24MEI10132 |
 | **Course** | Open Source Software (OSS NGMC) |
 | **Chosen Software** | Python |
 | **License** | Python Software Foundation (PSF) License |
